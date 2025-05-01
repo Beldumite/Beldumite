@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP and SQL**
 
-- 📚 Currently studying at **State c**
+- 📚 Currently studying at **State Vocational School 1 Jakarta**
 
 - 📫 Reach me Via Email **azkaarrofiq12@gmail.com**
 
